@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bLink</string>
+
+    <string-array name="data">
+        <item>Select</item>
+        <item>SBI IPO</item>
+    </string-array>
+</resources>
